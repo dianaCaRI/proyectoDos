@@ -28,7 +28,7 @@ function App() {
  
   return (
     <div className="App" >
-    <p> LISTA DE POKEMON </p>
+    <p> LISTA POKEMON </p>
 
      <ul className='fondolist'>
         {lista.map((lista , index) => (
