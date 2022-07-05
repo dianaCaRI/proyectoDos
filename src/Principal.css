@@ -30,10 +30,19 @@ button{
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: xx-large;
 }
 
 .img2{
   width: 300px;
+  background: cornsilk;
+  border-radius: 12px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: large;
+  text-align:center;
+  
+  
 }
 
 
@@ -61,3 +70,4 @@ button{
  
   
 }
+

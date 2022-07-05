@@ -27,8 +27,8 @@ export default function Pokemon() {
   return (
     <div className='principal'>
     <div > 
-     <div className='fondo'>
-        <h1 className='principal'>{pokemon.name}</h1>
+     <div className='img2'>
+        <h1 >{pokemon.name}</h1>
         <img src={pokemon.sprites.front_default} alt="pokemon" className='img2' />
         </div>
 

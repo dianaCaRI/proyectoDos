@@ -6,7 +6,7 @@ import './App.css';
 export default function Alumno() {
   return (
   
-    <div className='principal'>Alumno 
+    <div className='principal'> INFORMACION DEL ALUMNO
      <div >
         <div className='card'> 
 
