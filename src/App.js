@@ -27,6 +27,7 @@ function App() {
   
  
   return (
+    
     <div className="App" >
     <p> LISTA POKEMON </p>
 
@@ -39,8 +40,9 @@ function App() {
 
           </li>
           <button onClick={() => obtenerInformacion(index+1)} className="boton">Mostrar</button>
-          
+       
    </div>
+   
         ))}
 
       </ul> 
